@@ -1,0 +1,10 @@
+D:\dev\MoreVariations\bin\Debug\netstandard2.0\MoreVariations.deps.json
+D:\dev\MoreVariations\bin\Debug\netstandard2.0\MoreVariations.dll
+D:\dev\MoreVariations\bin\Debug\netstandard2.0\MoreVariations.pdb
+D:\dev\MoreVariations\obj\Debug\netstandard2.0\MoreVariations.csproj.AssemblyReference.cache
+D:\dev\MoreVariations\obj\Debug\netstandard2.0\MoreVariations.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\MoreVariations\obj\Debug\netstandard2.0\MoreVariations.AssemblyInfoInputs.cache
+D:\dev\MoreVariations\obj\Debug\netstandard2.0\MoreVariations.AssemblyInfo.cs
+D:\dev\MoreVariations\obj\Debug\netstandard2.0\MoreVariations.csproj.CoreCompileInputs.cache
+D:\dev\MoreVariations\obj\Debug\netstandard2.0\MoreVariations.dll
+D:\dev\MoreVariations\obj\Debug\netstandard2.0\MoreVariations.pdb
